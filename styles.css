@@ -1,0 +1,23 @@
+h3 {
+  margin-left: 10px; }
+
+h3 {
+  color: navy; }
+
+ol li {
+  color: gray; }
+ol #hare {
+  color: red; }
+
+.button:hover {
+  background-color: skyblue;
+  color: white; }
+
+@media (min-width: 500px) {
+  body {
+    background-color: white; } }
+@media (max-width: 499px) {
+  body {
+    background-color: yellow; } }
+
+/*# sourceMappingURL=styles.css.map */
